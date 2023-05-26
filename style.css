@@ -1,7 +1,7 @@
 .cabecalho{
-   background-color: #664242; 
+   background-color: #0d504a; 
     
-    color: rgb(93, 105, 101);
+    color: rgb(27, 6, 218);
     display: flex;
     justify-content:space-around ;
     padding: 15px 0;
@@ -35,11 +35,21 @@ escola-conteudo {
 
     width: 25%;
 }
-
-
-    
-
-
+.escola-titulo{ 
+ padding: 24px; 
+}
+.estudante-imagem{ 
+  width: 120px;
+}
+ .estudante-icone{ 
+  width: 24px;
+ }   
+   .estudante-div{ 
+    text-align: center;
+   }
+body{ 
+  font-family: 'Poppins', sans-serif;
+}
 
 
 
